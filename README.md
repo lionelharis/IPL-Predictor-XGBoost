@@ -44,29 +44,25 @@ The project was built using Python, Pandas, Matplotlib, and Seaborn.
 
 ---
 
-# Visualizations
+# Analysis Performed
 
-## Team Win Percentage
-
-![Team Wins]([images/win_percentage.png](https://github.com/lionelharis/IPL-Data-Analytics/blob/main/Screenshot%202026-05-19%20151134.png#:~:text=19%20151038.png-,Screenshot%202026%2D05%2D19%20151134.png,-Screenshot%202026%2D05))
-
----
+## Team Dominance Analysis
+- Total wins by teams
+- Win percentage comparison
+- Team performance evaluation
 
 ## Toss Impact Analysis
+- Toss winner vs match winner analysis
+- Toss advantage percentage evaluation
 
-![Toss Impact](images/Screenshot 2026-05-19 151038.png)
+## Best IPL Finishers Analysis
+- Death overs batting analysis
+- Strike rate comparison
+- Total runs scored in death overs
 
----
-
-## Best IPL Finishers
-
-![Finishers](images/top_finishers.png)
-
----
-
-## Top Stadiums for Batting
-
-![Stadiums](images/top_stadiums.png)
+## Stadium Analysis
+- Average first innings scores
+- Identification of batting-friendly venues
 
 ---
 
