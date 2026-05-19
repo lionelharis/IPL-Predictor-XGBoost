@@ -54,7 +54,7 @@ The project was built using Python, Pandas, Matplotlib, and Seaborn.
 
 ## Toss Impact Analysis
 
-![Toss Impact](Screenshot 2026-05-19 151038.png)
+![Toss Impact](images/Screenshot 2026-05-19 151038.png)
 
 ---
 
